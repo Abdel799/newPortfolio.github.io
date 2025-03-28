@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cdn-cgi/images/trace/
+Allow: /cdn-cgi/imagedelivery/
+Disallow: /cdn-cgi/
+Sitemap: https://aveline-kvmdurhtaf.figweb.site/sitemap.xml
